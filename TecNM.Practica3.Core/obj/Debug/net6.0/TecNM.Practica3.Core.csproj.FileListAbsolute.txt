@@ -1,0 +1,12 @@
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net6.0\TecNM.Practica3.Core.deps.json
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net6.0\TecNM.Practica3.Core.dll
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\bin\Debug\net6.0\TecNM.Practica3.Core.pdb
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.csproj.AssemblyReference.cache
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.AssemblyInfoInputs.cache
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.AssemblyInfo.cs
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.csproj.CoreCompileInputs.cache
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.dll
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\refint\TecNM.Practica3.Core.dll
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\TecNM.Practica3.Core.pdb
+C:\Users\blake\Desktop\PracticasTecnologiasWebMultiplataforma\TECNM.PRACTICA3\TecNM.Practica3.Core\obj\Debug\net6.0\ref\TecNM.Practica3.Core.dll
